@@ -1,0 +1,139 @@
+[
+    {
+        "key": "nel",
+        "value":  "in"        
+    },
+    {
+        "key": "mezzo",
+        "value":  "middle, half"        
+    },
+    {
+        "key": "cammini",
+        "value":  "path"        
+    },
+    {
+        "key": "selva",
+        "value" : "forest"
+    },
+    {
+        "key": "di",
+        "value":  "of, at, to"        
+    },
+    {
+        "key": "irrita",
+        "value":  "annoyed, upset"        
+    },
+
+    {
+        "key": "vita",
+        "value":  "life",
+        "examples": [{ "key": "nostra vita" ,  "value": "our lives"}]
+    },
+
+    {
+        "key": "smarrita",
+        "value":  "stray, lost"        
+    },
+
+    {
+        "key": "via",
+        "value":  "way"        
+    },
+    {
+        "key": "mi",
+        "value":  "I, myself",        
+        "examples": [{ "key": "mi ritrovai" ,  "value": "I found myself"}]
+    },
+    {
+        "key": "ritrovai",
+        "value":  "ended up",        
+        "examples": [{ "key": "mi ritrovai" ,  "value": "I found myself"}]
+    },
+    {
+        "key": "quanto",
+        "value":  "adv: how (adv), noun: long, adj: how much "        
+    },
+    {
+        "key": "forte",
+        "value":  "adj: strong, n: hard, adv: hard "        
+    },
+    {
+        "key": "paura",
+        "value":  "n: fear"        
+    },
+    {
+        "key": "selvaggia",
+        "value":  "n: savage"        
+    },
+    {
+        "key": "aspra",
+        "value":  "adj: bitter, harsh, sour"        
+    },
+    {
+        "key": "trovai",
+        "value":  "v: I found"        
+    },
+    {
+        "key": "abbandonai",
+        "value":  "v: I abandoned, I ditched"        
+    },
+    {
+        "key": "oscura",
+        "value":  "dark, gloomy"        
+    },   
+    {
+        "key": "amara",
+        "value":  "adj: bitter"        
+    },   
+    {
+        "key": "morte",
+        "value": "death"        
+    },   
+
+    
+    {
+        "key": "più",
+        "value": "adv: more, again, n: more, better, adj: longer, better"        
+    } ,
+
+    {
+        "key": "non",
+        "value":  "adv: not",        
+        "examples": [{ "key": "non posso" ,  "value": "I can't"}]
+    }   ,
+    {
+        "key": "là",
+        "value":  "adv: out, back, inside",        
+        "examples": [{ "key": "là dove" ,  "value": "where"}]
+    },
+    
+    {
+        "key": "dove",
+        "value":  "adv: where",        
+        "examples": [{ "key": "là dove" ,  "value": "where"}]
+    }   ,
+
+    {
+        "key": "corruttibile",
+        "value": "adj: corruptible"        
+    } ,  
+    {
+        "key": "punto",
+        "value": "n: point, spot"        
+    } ,  
+
+    { 
+        "key": "affannata", 
+        "value": " breathless"
+    },
+    
+    {
+        "key": "verace",
+        "value":  "true"        
+    }  ,
+    {
+        "key": "di",
+        "value":  "of, by"        
+    }  
+
+]
