@@ -2,6 +2,10 @@
   <div id="app">    
       <b-navbar>
      <template #start>
+            <b-navbar-item href="/dict">
+                Dictionary
+            </b-navbar-item>
+
             <b-navbar-item href="/hell">
                 Inferno
             </b-navbar-item>
@@ -26,6 +30,9 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
+         <b-nav-item>
+          <router-link to="/dict">Dict</router-link>              
+        </b-nav-item>  
         <b-nav-item>
           <router-link to="/hell">Inferno</router-link>              
         </b-nav-item>        

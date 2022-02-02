@@ -1,23 +1,51 @@
 [
     {
-        "key": "nel",
-        "value":  "in"        
+        "key": "abbandonai",
+        "value":  "v: I abandoned, I ditched"        
     },
     {
-        "key": "mezzo",
-        "value":  "middle, half"        
+        "key": "amara",
+        "value":  "adj: bitter"        
+    },   
+
+    {
+        "key": "aspra",
+        "value":  "adj: bitter, harsh, sour"        
     },
     {
         "key": "cammini",
         "value":  "path"        
     },
     {
-        "key": "selva",
-        "value" : "forest"
+        "key": "ché",
+        "value":  "surely"        
     },
+    {
+        "key": "chi",
+        "value":  "n:who, adv:whose"        
+    },
+
     {
         "key": "di",
         "value":  "of, at, to"        
+    },
+    {
+        "key": "era",
+        "value":  "was",        
+        "examples": [{ "key": "non era" ,  "value": "it wasn't"}]
+    },
+    {
+        "key": "mezzo",
+        "value":  "middle, half"        
+    },
+    {
+        "key": "nel",
+        "value":  "in"        
+    },
+
+    {
+        "key": "selva",
+        "value" : "forest"
     },
     {
         "key": "irrita",
@@ -29,7 +57,10 @@
         "value":  "life",
         "examples": [{ "key": "nostra vita" ,  "value": "our lives"}]
     },
-
+    {
+        "key": "scorte",
+        "value":  "stock, supplies"        
+    },
     {
         "key": "smarrita",
         "value":  "stray, lost"        
@@ -38,6 +69,10 @@
     {
         "key": "via",
         "value":  "way"        
+    },
+    {
+        "key": "v’ho",
+        "value":  "I have"        
     },
     {
         "key": "mi",
@@ -66,24 +101,12 @@
         "value":  "n: savage"        
     },
     {
-        "key": "aspra",
-        "value":  "adj: bitter, harsh, sour"        
-    },
-    {
         "key": "trovai",
         "value":  "v: I found"        
     },
     {
-        "key": "abbandonai",
-        "value":  "v: I abandoned, I ditched"        
-    },
-    {
         "key": "oscura",
         "value":  "dark, gloomy"        
-    },   
-    {
-        "key": "amara",
-        "value":  "adj: bitter"        
     },   
     {
         "key": "morte",
@@ -126,7 +149,42 @@
         "key": "affannata", 
         "value": " breathless"
     },
-    
+    {
+        "key": "altrui",
+        "value":  "of others"        
+    }  ,
+     {
+        "key": "spalle",
+        "value":  "n:back,shoulder,away"        
+    }  ,
+      {
+        "key": "pianeta",
+        "value":  "n:planet"        
+    }  ,
+    {
+        "key": "riva",
+        "value":  "n:shore, bank"        
+    }  ,
+
+    {
+        "key": "poco",
+        "value":  "adj,n:little, adv:a bit"        
+    }  ,
+    {
+        "key": "passo",
+        "value":  "adj,n:step,pass,pace"        
+    }  ,
+    {
+        "key": "posso",
+        "value":  "v:I can"        
+    }  ,
+
+    {
+        "key": "uscito",
+        "value":  "got out, released"        
+    }  ,
+
+  
     {
         "key": "verace",
         "value":  "true"        

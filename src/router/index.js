@@ -15,6 +15,17 @@ const routes = [
         },
     },
     {
+        path: '/dict',
+        name: 'Dictionary',
+        component: () =>
+            import(/* webpackChunkName: "profile" */ '../views/Dict.vue'),
+        meta: {
+                authRequired: false,
+        },
+    
+    },
+
+    {
         path: '/profile',
         name: 'Profile',
         component: () =>

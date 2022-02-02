@@ -1,5 +1,7 @@
 <template>
   <div class="home">
+    <div class="row">
+    <div class="col-6">
     <v-select
       :options="books"
       v-model="current"
@@ -24,9 +26,13 @@
       @row-unhovered="mouseleave"
       :current-page="current_page"
       :per-page="per_page"
+      :tbody-tr-class="rowClass"
     />
-
-    <b-table :items="items" />
+    </div>
+    <div class="col-3">
+      <b-table :items="items" />
+    </div>
+</div>
   </div>
 </template>
 
@@ -48,7 +54,7 @@ export default {
     return {
       rows_length: 30,
       current_page: 1,
-      per_page: 3,
+      per_page: 9,
       dict: dict_json,
       notes: notes_json,
       items: [],
@@ -103,7 +109,7 @@ export default {
       let i;
       let args = [];
       for (i = 0; i < x.length; i++) {
-        let word = x[i].toLowerCase().replace(/;|,|\.$/g, "");
+        let word = x[i].toLowerCase().replace(/;|,|'|’$|‘$|\.$/g, "");
         let res = this.dict.filter((item) => {
           return item.key.toLowerCase() == word;
         });
@@ -127,6 +133,11 @@ export default {
         args.push(obj);
       }
       return args;
+    },
+    rowClass(item, type) {
+      if (!item || type !== "row") return;
+      if (item.hover) return "table-primary"; //"table-success";
+
     },
     mouseover(item, index, event) {
       console.log(item, index, event);
@@ -219,6 +230,7 @@ export default {
               }
             }
           }
+          self.rows_length = nr;
         })
         .catch(function (error) {
           if (error.response) {
@@ -271,6 +283,7 @@ export default {
                 });
             }
           }
+          self.rows_length = nr;
         })
         .catch(function (error) {
           if (error.response) {
