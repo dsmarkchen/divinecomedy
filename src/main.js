@@ -9,6 +9,9 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap-vue/dist/bootstrap-vue.css"
 Vue.use(BootstrapVue)
 
+import axios from 'axios'
+import VueAxios from 'vue-axios'
+Vue.use(VueAxios, axios)
 
 Vue.config.productionTip = false
 
