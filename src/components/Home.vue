@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="row">
-    <div class="col-6">
+    <div class="col-9">
     <v-select
       :options="books"
       v-model="current"
@@ -30,7 +30,7 @@
     />
     </div>
     <div class="col-3">
-      <b-table :items="items" />
+      <b-table :items="items" small/>
     </div>
 </div>
   </div>
@@ -128,8 +128,10 @@ export default {
       let x = line.split(" ");
       let i;
       let args = [];
+      const pattern = new RegExp(/\.|:|;|\?|,|!$/g);
       for (i = 0; i < x.length; i++) {
-        let word = x[i].toLowerCase().replace(/\.|;|:|!|,|'|’|‘$/g, "").replace(/^‘/g, "");
+        let word = x[i].toLowerCase().replace(pattern, "").replace(/’$/g, "").replace(pattern, "").replace(/^‘/g, "");
+        console.log(word);
         let res = this.dict.filter((item) => {
           return item.key.toLowerCase() == word;
         });
@@ -146,7 +148,8 @@ export default {
           let res2 = this.dict.filter((item) => {
             return item.key.toLowerCase() == newkey.toLowerCase();
           });
-          tmp = tmp + newkey + ":" + res2[0].value;
+          if(res2.length > 0)
+            tmp = tmp + newkey + ":" + res2[0].value;          
         }
 
         var obj = { key: word, value: tmp };
@@ -159,13 +162,13 @@ export default {
       if (item.hover) return "table-primary"; //"table-success";
 
     },
-    mouseover(item, index, event) {
-      console.log(item, index, event);
+    mouseover(item) {
+      console.log("over", item.nr);
       item.hover = true;
       this.currentLine = item.line;
     },
-    mouseleave(item, index, event) {
-      console.log(item, index, event);
+    mouseleave(item) {
+      console.log("leave", item.nr);
       item.hover = false;
     },
     onchangebook(newBook) {
@@ -365,20 +368,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-h3 {
-  margin: 40px 0 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  display: inline-block;
-  margin: 0 10px;
-}
-a {
-  color: #42b983;
-}
+
 /* ::v-deep/ .table > tbody > tr > td { */
 /deep/ .table > tbody > tr > td {
   text-align: left;

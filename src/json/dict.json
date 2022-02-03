@@ -20,6 +20,11 @@
         "value":  "acts"        
     },
     {
+        "key": "bene",
+        "value":  "well, nicely"        
+    },
+
+    {
         "key": "cammini",
         "value":  "path"        
     },
@@ -96,6 +101,11 @@
         "key": "quello",
         "value":  "that those"        
     },
+    {
+        "key": "questa",
+        "value":  "this, this one"        
+    },
+
     {
         "key": "terminare",
         "value":  "to end, to terminate"        

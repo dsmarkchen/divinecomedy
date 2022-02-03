@@ -45,17 +45,7 @@ const routes = [
         },
     
     },
-    {
-        path: '/hell',
-        name: 'Hell',
-        component: () =>
-            import(
-                /* webpackChunkName: "dashboard" */ '../views/Hell.vue'
-            ),
-        meta: {
-            authRequired: false,
-        },
-    },
+   
 ];
 
 const router = new VueRouter({

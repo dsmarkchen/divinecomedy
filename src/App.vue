@@ -6,9 +6,6 @@
                 Dictionary
             </b-navbar-item>
 
-            <b-navbar-item href="/hell">
-                Inferno
-            </b-navbar-item>
             <b-navbar-item href="/purgatorio">
                 Purgatorio
             </b-navbar-item>
@@ -33,9 +30,6 @@
          <b-nav-item>
           <router-link to="/dict">Dict</router-link>              
         </b-nav-item>  
-        <b-nav-item>
-          <router-link to="/hell">Inferno</router-link>              
-        </b-nav-item>        
         <b-nav-item>
           <router-link to="/purgatorio">Purgatorio</router-link>              
         </b-nav-item>        
@@ -76,11 +70,11 @@ export default {
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 0px;
 }
 </style>
