@@ -44,6 +44,17 @@ import axios from "axios";
 import dict_json from "../json/dict.json";
 import notes_json from "../json/notes.json";
 
+function romanize(num) {
+  var lookup = {M:1000,CM:900,D:500,CD:400,C:100,XC:90,L:50,XL:40,X:10,IX:9,V:5,IV:4,I:1},roman = '',i;
+  for ( i in lookup ) {
+    while ( num >= lookup[i] ) {
+      roman += i;
+      num -= lookup[i];
+    }
+  }
+  return roman;
+}
+
 export default {
   name: "Home",
   components: {
@@ -99,7 +110,16 @@ export default {
     },
     canto(newCanto) {
       console.log("canto:" + newCanto);
-      this.filter();
+      let canto = newCanto;
+      let n = parseInt(canto);
+      if(isNaN(n))  {
+        this.filter(canto);
+      }
+      else {
+        let roman = romanize(canto);
+        this.filter(roman);
+      }
+      
       this.$forceUpdate();
     },
   },
@@ -109,7 +129,7 @@ export default {
       let i;
       let args = [];
       for (i = 0; i < x.length; i++) {
-        let word = x[i].toLowerCase().replace(/;|,|'|’$|‘$|\.$/g, "");
+        let word = x[i].toLowerCase().replace(/;|:|!|,|'|’|‘|\.$/g, "");
         let res = this.dict.filter((item) => {
           return item.key.toLowerCase() == word;
         });
@@ -160,10 +180,10 @@ export default {
         this.init3("999-0.txt");
       }
     },
-    filter() {
+    filter(canto) {
       if (this.current == "Inferno") {
         this.inferno.forEach((row) => {
-          if (row.canto == this.canto) {
+          if (row.canto == canto) {
             row.show = true;
           } else {
             row.show = false;
@@ -172,7 +192,7 @@ export default {
         this.rows_length = this.inferno.length;
       } else if (this.current == "Purgatorio") {
         this.purgatorio.forEach((row) => {
-          if (row.canto == this.canto) {
+          if (row.canto == canto) {
             row.show = true;
           } else {
             row.show = false;
@@ -181,7 +201,7 @@ export default {
         this.rows_length = this.purgatorio.length;
       } else {
         this.paradiso.forEach((row) => {
-          if (row.canto == this.canto) {
+          if (row.canto == canto) {
             row.show = true;
           } else {
             row.show = false;

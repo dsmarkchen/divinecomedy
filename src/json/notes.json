@@ -6,5 +6,33 @@
     {
         "key": "del",
         "value":  "di"        
+    },
+    {
+        "key": "dicer",
+        "value": "dice"
+    },
+    {
+        "key": "rinova",
+        "value": "rinnova",
+        "ref": "canto 1, line6"
+
+    },
+    {
+        "key": "pensier",
+        "value": "pensiero",
+        "ref": "canto 1, line6"
+
+    },
+    {
+        "key": "dura",
+        "value": "duro",
+        "ref": "canto 1, line4"
+
+    },
+    {
+        "key": "qual",
+        "value": "quale",
+        "ref": "canto 1, line4"
+
     }
 ]

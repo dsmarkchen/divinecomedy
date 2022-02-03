@@ -7,10 +7,17 @@
         "key": "amara",
         "value":  "adj: bitter"        
     },   
-
+    {
+        "key": "amore",
+        "value":  "n: love"        
+    },   
     {
         "key": "aspra",
         "value":  "adj: bitter, harsh, sour"        
+    },
+    {
+        "key": "atti",
+        "value":  "acts"        
     },
     {
         "key": "cammini",
@@ -21,6 +28,10 @@
         "value":  "surely"        
     },
     {
+        "key": "cosa",
+        "value":  "causa, thing, what?"        
+    },
+    {
         "key": "chi",
         "value":  "n:who, adv:whose"        
     },
@@ -28,6 +39,19 @@
     {
         "key": "di",
         "value":  "of, at, to"        
+    },
+    {
+        "key": "dice",
+        "value":  "said"        
+    },
+    {
+        "key": "dosso",
+        "value":  "hill, hilllock"        
+    },
+    {
+        "key": "duro",
+        "value":  "hard, tough",        
+        "ref": "dura, duri, dure"
     },
     {
         "key": "era",
@@ -42,7 +66,10 @@
         "key": "nel",
         "value":  "in"        
     },
-
+    {
+        "key": "piangendo", 
+        "value": "v:weeping"
+    },
     {
         "key": "selva",
         "value" : "forest"
@@ -112,7 +139,10 @@
         "key": "morte",
         "value": "death"        
     },   
-
+    {
+        "key": "ma",
+        "value": "but; Interjection: Oh, So"        
+    }, 
     
     {
         "key": "più",
@@ -141,6 +171,10 @@
         "value": "adj: corruptible"        
     } ,  
     {
+        "key": "pensiero",
+        "value": "n: thought"
+    },
+    {
         "key": "punto",
         "value": "n: point, spot"        
     } ,  
@@ -165,6 +199,11 @@
         "key": "riva",
         "value":  "n:shore, bank"        
     }  ,
+    {
+        "key": "rinnova",
+        "value":  "renewed"        
+    }  ,
+    
 
     {
         "key": "poco",
