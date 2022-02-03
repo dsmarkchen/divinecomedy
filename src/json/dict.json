@@ -92,11 +92,31 @@
         "key": "smarrita",
         "value":  "stray, lost"        
     },
-
+    {
+        "key": "quello",
+        "value":  "that those"        
+    },
+    {
+        "key": "terminare",
+        "value":  "to end, to terminate"        
+    },
+  
+    {
+        "key": "guardare",
+        "value":  "look at, gaze"        
+    },
+  
+    
+    {
+        "key": "valle",
+        "value":  "valley"        
+    },
+    
     {
         "key": "via",
         "value":  "way"        
     },
+
     {
         "key": "v’ho",
         "value":  "I have"        

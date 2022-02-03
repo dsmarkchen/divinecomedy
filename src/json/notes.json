@@ -12,6 +12,10 @@
         "value": "dice"
     },
     {
+        "key": "esta",
+        "value":  "questa"        
+    },
+    {
         "key": "rinova",
         "value": "rinnova",
         "ref": "canto 1, line6"
@@ -34,5 +38,23 @@
         "value": "quale",
         "ref": "canto 1, line4"
 
+    },
+    {
+        "key": "quella",
+        "value": "quello",
+        "ref": "1, 14"
+
+    },
+    {
+        "key": "terminava",
+        "value": "terminare",
+        "ref": "1, 14"
+
+    },
+    {
+        "key": "guardai",
+        "value": "guardare",
+        "ref": "1,16"
+    
     }
 ]

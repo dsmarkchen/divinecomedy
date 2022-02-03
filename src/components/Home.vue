@@ -129,7 +129,7 @@ export default {
       let i;
       let args = [];
       for (i = 0; i < x.length; i++) {
-        let word = x[i].toLowerCase().replace(/;|:|!|,|'|’|‘|\.$/g, "");
+        let word = x[i].toLowerCase().replace(/\.|;|:|!|,|'|’|‘$/g, "").replace(/^‘/g, "");
         let res = this.dict.filter((item) => {
           return item.key.toLowerCase() == word;
         });
