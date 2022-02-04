@@ -4,17 +4,41 @@
         "value":  "I"        
     },
     {
+        "key": "in",
+        "value":  "in"        
+    },
+    {
+        "key": "un",
+        "value":  "an"        
+    },
+    {
         "key": "è",
         "value":  "is"        
     },
     {
+        "key": "e",
+        "value":  "and"        
+    },
+    {
+        "key": "se",
+        "value":  "if"        
+    },
+    {
         "key": "a",
-        "value":  "at"        
+        "value":  "at,to"        
     },
 
     {
         "key": "che",
         "value":  "that"        
+    },
+    {
+        "key": "come",
+        "value":  "how"        
+    },
+    {
+        "key": "noi",
+        "value":  "we"        
     },
     {
         "key": "con",
@@ -63,6 +87,14 @@
         "value":  "surely"        
     },
     {
+        "key": "colle",
+        "value": "hill, pass (through hills)"
+    },
+    {
+        "key": "giungere",
+        "value": "arrive, join"
+    },
+    {
         "key": "cosa",
         "value":  "causa, thing, what?"        
     },
@@ -102,6 +134,21 @@
         "value":  "in"        
     },
     {
+        "key": "piede",
+        "value":"foot"
+    },
+    {
+        "key": "pensare",
+        "value":"think   "
+    },
+
+    {
+        "key": "poi",
+        "value":"then, later    "
+    },
+
+
+    {
         "key": "piangendo", 
         "value": "v:weeping"
     },
@@ -126,6 +173,10 @@
     {
         "key": "smarrita",
         "value":  "stray, lost"        
+    },
+    {
+        "key": "soffrire",
+        "value":  "suffer, bear"        
     },
     {
         "key": "quello",
@@ -206,12 +257,12 @@
     
     {
         "key": "più",
-        "value": "adv: more, again, n: more, better, adj: longer, better"        
+        "value": "more, better, longer"        
     } ,
 
     {
         "key": "non",
-        "value":  "adv: not",        
+        "value":  "not",        
         "examples": [{ "key": "non posso" ,  "value": "I can't"}]
     }   ,
     {

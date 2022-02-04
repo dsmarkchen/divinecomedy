@@ -129,8 +129,9 @@ export default {
       let i;
       let args = [];
       const pattern = new RegExp(/\.|:|;|\?|,|!$/g);
+      const pattern2 = new RegExp(/^«|‘/g);
       for (i = 0; i < x.length; i++) {
-        let word = x[i].toLowerCase().replace(pattern, "").replace(/’$/g, "").replace(pattern, "").replace(/^‘/g, "");
+        let word = x[i].toLowerCase().replace(pattern, "").replace(/’$/g, "").replace(pattern, "").replace(pattern2, "");
         console.log(word);
         let res = this.dict.filter((item) => {
           return item.key.toLowerCase() == word;

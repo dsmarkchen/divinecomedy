@@ -47,11 +47,20 @@
 
     },
     {
+        "key": "piè",
+        "value":"piede"
+    },
+    {
         "key": "quella",
         "value": "quello",
         "ref": "1, 14"
 
     },
+    {
+        "key": "giunto",
+        "value": "giungere"
+    },
+
     {
         "key": "terminava",
         "value": "terminare",
@@ -63,5 +72,15 @@
         "value": "guardare",
         "ref": "1,16"
     
+    },
+    {
+    "key": "sofferse",
+    "value": "soffrire",
+    "ref": "P, 31,10"
+
+    },
+    {
+        "key": "pense",
+        "value": "pensare"
     }
 ]
