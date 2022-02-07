@@ -129,6 +129,7 @@ export default {
       let i;
       let args = [];
       const pattern = new RegExp(/\.|:|;|\?|,|!$/g);
+
       const patt2 = new RegExp(/»|’$/g);
       const patt3 = new RegExp(/^«|‘/);
       for (i = 0; i < x.length; i++) {

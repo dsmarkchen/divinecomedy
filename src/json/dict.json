@@ -10,12 +10,28 @@
         "rank":  2       
     },
     {
+        "key": "in",
+        "value":  "in"        
+    },
+    {
+        "key": "un",
+        "value":  "an"        
+    },
+    {
         "key": "è",
         "value":  "is"        
     },
     {
+        "key": "e",
+        "value":  "and"        
+    },
+    {
+        "key": "se",
+        "value":  "if"        
+    },
+    {
         "key": "a",
-        "value":  "at"        
+        "value":  "at,to"        
     },
 
     {
@@ -24,6 +40,7 @@
         "rank": 4
     },
     {
+
         "key": "esso",
         "value":  "it",        
         "rank": 25
@@ -41,6 +58,15 @@
 
 
 
+    {
+
+        "key": "come",
+        "value":  "how"        
+    },
+    {
+        "key": "noi",
+        "value":  "we"        
+    },
     {
         "key": "con",
         "value":  "with",   
@@ -95,6 +121,14 @@
         "value":  "surely"        
     },
     {
+        "key": "colle",
+        "value": "hill, pass (through hills)"
+    },
+    {
+        "key": "giungere",
+        "value": "arrive, join"
+    },
+    {
         "key": "cosa",
         "value":  "causa, thing, what?"        
     },
@@ -141,7 +175,20 @@
         "key": "luogo", 
         "value": "place"
     },
- 
+    {
+        "key": "piede",
+        "value":"foot"
+    },
+    {
+        "key": "pensare",
+        "value":"think   "
+    },
+
+    {
+        "key": "poi",
+        "value":"then, later    "
+    },
+
     {
         "key": "piangendo", 
         "value": "v:weeping"
@@ -167,6 +214,10 @@
     {
         "key": "smarrita",
         "value":  "stray, lost"        
+    },
+    {
+        "key": "soffrire",
+        "value":  "suffer, bear"        
     },
     {
         "key": "quello",
@@ -251,12 +302,12 @@
     
     {
         "key": "più",
-        "value": "adv: more, again, n: more, better, adj: longer, better"        
+        "value": "more, better, longer"        
     } ,
 
     {
         "key": "non",
-        "value":  "adv: not",        
+        "value":  "not",        
         "examples": [{ "key": "non posso" ,  "value": "I can't"}]
     }   ,
     {

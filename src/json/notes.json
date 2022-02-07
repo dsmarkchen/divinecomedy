@@ -53,11 +53,20 @@
 
     },
     {
+        "key": "piè",
+        "value":"piede"
+    },
+    {
         "key": "quella",
         "value": "quello",
         "ref": "1, 14"
 
     },
+    {
+        "key": "giunto",
+        "value": "giungere"
+    },
+
     {
         "key": "terminava",
         "value": "terminare",
@@ -71,6 +80,7 @@
     
     },
     {
+
         "key": "ringhia",
         "value": "ringhiare",
         "ref": "5, 4"
@@ -80,6 +90,15 @@
         "key": "vieni",
         "value": "venire",
         "ref": "5, 16"
+   },
+   {
+    "key": "sofferse",
+    "value": "soffrire",
+    "ref": "P, 31,10"
 
+    },
+    {
+        "key": "pense",
+        "value": "pensare"
     }
  ]
