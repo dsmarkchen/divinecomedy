@@ -27,7 +27,13 @@
         "ref": "1,9"
 
     },
+    {
+        "key": "loco",
+        "value": "luogo",
+        "ref": "canto 5, line10"
 
+    },
+ 
     {
         "key": "pensier",
         "value": "pensiero",
@@ -63,5 +69,17 @@
         "value": "guardare",
         "ref": "1,16"
     
+    },
+    {
+        "key": "ringhia",
+        "value": "ringhiare",
+        "ref": "5, 4"
+
+    },
+   {
+        "key": "vieni",
+        "value": "venire",
+        "ref": "5, 16"
+
     }
-]
+ ]

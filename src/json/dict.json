@@ -1,7 +1,13 @@
 [
     {
+        "key": "come",
+        "value":  "as", 
+        "rank":  1       
+    },
+     {
         "key": "io",
-        "value":  "I"        
+        "value":  "I", 
+        "rank":  2       
     },
     {
         "key": "è",
@@ -14,11 +20,31 @@
 
     {
         "key": "che",
-        "value":  "that"        
+        "value":  "that",        
+        "rank": 4
     },
     {
+        "key": "esso",
+        "value":  "it",        
+        "rank": 25
+    },
+    {
+        "key": "voi",
+        "value":  "you",        
+        "rank": 26
+    },
+    {
+        "key": "e",
+        "value":  "and",        
+        "rank": 32
+    },
+
+
+
+    {
         "key": "con",
-        "value":  "with"        
+        "value":  "with",   
+        "rank": 10     
     },
     {
         "key": "per",
@@ -59,6 +85,12 @@
         "value":  "path"        
     },
     {
+        "key": "coda",
+        "value":  "tail",        
+        "rank": 447
+    },
+ 
+    {
         "key": "ché",
         "value":  "surely"        
     },
@@ -69,6 +101,10 @@
     {
         "key": "chi",
         "value":  "n:who, adv:whose"        
+    },
+    {
+        "key": "da",
+        "value":  "since"        
     },
 
     {
@@ -101,6 +137,11 @@
         "key": "nel",
         "value":  "in"        
     },
+    {
+        "key": "luogo", 
+        "value": "place"
+    },
+ 
     {
         "key": "piangendo", 
         "value": "v:weeping"
@@ -174,6 +215,10 @@
     {
         "key": "quanto",
         "value":  "adv: how (adv), noun: long, adj: how much "        
+    },
+    {
+        "key": "essa",
+        "value":  "she,her "        
     },
     {
         "key": "forte",
@@ -282,12 +327,42 @@
         "key": "uscito",
         "value":  "got out, released"        
     }  ,
-
-  
+    {
+        "key": "ospizio",
+        "value":  "nursing home, home (for elderly)"        
+} , {
+        "key": "doloroso",
+        "value":  "sorrowful"        
+} ,
     {
         "key": "verace",
         "value":  "true"        
     }  ,
+    {
+        "key": "tu",
+        "value":  "you"        
+    }  ,
+    {
+        "key": "al",
+        "value":  "at the, to the"        
+    },  
+    {
+        "key": "venire",
+        "value":  "come"        
+    }, 
+    {
+        "key": "quale",
+        "value":  "what, which"        
+    }, 
+ 
+    {
+        "key": "orribilmente",
+        "value":  "horribly, awfully"        
+    }, 
+    {
+        "key": "ringhiare",
+        "value":  "snarl"        
+    }, 
     {
         "key": "di",
         "value":  "of, by"        
