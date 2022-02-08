@@ -17,7 +17,6 @@
       class="my-0"
       aria-controls="my-table"
     ></b-pagination>
-
     <b-table
       id="my-table"
       :items="rows"
@@ -188,31 +187,38 @@ export default {
     },
     filter(canto) {
       if (this.current == "Inferno") {
+        let inf_lines =0;
         this.inferno.forEach((row) => {
           if (row.canto == canto) {
             row.show = true;
+            inf_lines++;
           } else {
             row.show = false;
           }
         });
-        this.rows_length = this.inferno.length;
+        this.rows_length = inf_lines;
       } else if (this.current == "Purgatorio") {
+        let purg_lines =0;
         this.purgatorio.forEach((row) => {
           if (row.canto == canto) {
             row.show = true;
+            purg_lines++;
           } else {
             row.show = false;
           }
         });
-        this.rows_length = this.purgatorio.length;
+        this.rows_length = purg_lines;
       } else {
+        let par_lines = 0;
         this.paradiso.forEach((row) => {
           if (row.canto == canto) {
             row.show = true;
+            par_lines++;
           } else {
             row.show = false;
           }
         });
+        this.rows_length = par_lines;
       }
     },
     init(api) {

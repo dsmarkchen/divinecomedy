@@ -92,6 +92,23 @@
         "ref": "5, 16"
    },
    {
+    "key": "volge",
+    "value": "volgere",
+    "ref": "18, 3"
+},
+{
+    "key": "vaneggia",
+    "value": "vaneggiare",
+    "ref": "18, 3"
+},
+{
+    "key": "viste",
+    "value": "vista",
+    "ref": "18, 3"
+},
+
+
+   {
     "key": "sofferse",
     "value": "soffrire",
     "ref": "P, 31,10"

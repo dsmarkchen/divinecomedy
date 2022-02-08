@@ -111,6 +111,16 @@
         "value":  "path"        
     },
     {
+        "key": "campo",
+        "value":  "field"        
+    },
+
+    
+    {
+        "key": "cerchia",
+        "value":  "circle"        
+    },
+    {
         "key": "coda",
         "value":  "tail",        
         "rank": 447
@@ -150,6 +160,11 @@
         "value":  "said"        
     },
     {
+        "key": "dintorno",
+        "value":  "adv: round, around"        
+    },
+    
+    {
         "key": "dosso",
         "value":  "hill, hilllock"        
     },
@@ -159,10 +174,20 @@
         "ref": "dura, duri, dure"
     },
     {
+        "key": "il",
+        "value":  "the, or lì (there, in that place)"                
+    },
+    {
         "key": "era",
         "value":  "was",        
         "examples": [{ "key": "non era" ,  "value": "it wasn't"}]
     },
+    
+    {
+        "key": "maligno",
+        "value":  "adj: malicious, evil"        
+    },
+
     {
         "key": "mezzo",
         "value":  "middle, half"        
@@ -170,6 +195,22 @@
     {
         "key": "nel",
         "value":  "in"        
+    },
+    {
+        "key": "nostre",
+        "value":  "ours"        
+    },
+    {
+        "key": "nostra",
+        "value":  "our"        
+    },
+    {
+        "key": "quinci",
+        "value":  "hence, from here"        
+    },
+    {
+        "key": "sian",
+        "value":  "see?"        
     },
     {
         "key": "luogo", 
@@ -193,6 +234,15 @@
         "key": "piangendo", 
         "value": "v:weeping"
     },
+    
+    {
+        "key": "vaneggiare",
+        "value" : "rave (talk wildly)"
+    },
+    {
+        "key": "sazie",
+        "value" : "full up"
+    },
     {
         "key": "selva",
         "value" : "forest"
@@ -201,11 +251,19 @@
         "key": "irrita",
         "value":  "annoyed, upset"        
     },
+    {
+        "key": "vista",
+        "value":  "sight, view"        
+    },
 
     {
         "key": "vita",
         "value":  "life",
         "examples": [{ "key": "nostra vita" ,  "value": "our lives"}]
+    },
+    {
+        "key": "volgere",
+        "value":  "turn, roll"        
     },
     {
         "key": "scorte",
