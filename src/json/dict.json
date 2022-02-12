@@ -4,6 +4,7 @@
         "value":  "as", 
         "rank":  1       
     },
+
      {
         "key": "io",
         "value":  "I", 
@@ -38,6 +39,32 @@
         "key": "che",
         "value":  "that",        
         "rank": 4
+    },
+    {
+        "key": "lui",
+        "value":  "he", 
+        "rank":  5       
+    },
+
+    {
+        "key": "uno",
+        "value":  "one", 
+        "rank":  14       
+    },
+    {
+        "key": "da",
+        "value":  "since, from, by",        
+        "rank": 17
+    },
+    {
+        "key": "cosa",
+        "value":  "causa, thing, what?",        
+        "rank": 22
+    },
+    {
+        "key": "alcuni",
+        "value":  "some",        
+        "rank": 23
     },
     {
 
@@ -138,17 +165,10 @@
         "key": "giungere",
         "value": "arrive, join"
     },
-    {
-        "key": "cosa",
-        "value":  "causa, thing, what?"        
-    },
+
     {
         "key": "chi",
         "value":  "n:who, adv:whose"        
-    },
-    {
-        "key": "da",
-        "value":  "since"        
     },
 
     {

@@ -16,6 +16,11 @@
         "value":  "questa"        
     },
     {
+        "key": "cose",
+        "value": "cosa",
+        "ref": "1, 9"
+    },
+    {
         "key": "rinova",
         "value": "rinnova",
         "ref": "canto 1, line6"
