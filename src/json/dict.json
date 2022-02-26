@@ -1,500 +1,618 @@
 [
-    {
-        "key": "come",
-        "value":  "as", 
-        "rank":  1       
-    },
+  {
+    "key": "come",
+    "value": "as",
+    "rank": 1
+  },
 
-     {
-        "key": "io",
-        "value":  "I", 
-        "rank":  2       
-    },
-    {
-        "key": "in",
-        "value":  "in"        
-    },
-    {
-        "key": "un",
-        "value":  "an"        
-    },
-    {
-        "key": "è",
-        "value":  "is"        
-    },
-    {
-        "key": "e",
-        "value":  "and"        
-    },
-    {
-        "key": "se",
-        "value":  "if"        
-    },
-    {
-        "key": "a",
-        "value":  "at,to"        
-    },
+  {
+    "key": "io",
+    "value": "I",
+    "rank": 2
+  },
+  {
+    "key": "in",
+    "value": "in"
+  },
+  {
+    "key": "un",
+    "value": "an"
+  },
+  {
+    "key": "è",
+    "value": "is"
+  },
+  {
+    "key": "e",
+    "value": "and"
+  },
+  {
+    "key": "se",
+    "value": "if"
+  },
+  {
+    "key": "a",
+    "value": "at,to"
+  },
 
-    {
-        "key": "che",
-        "value":  "that",        
-        "rank": 4
-    },
-    {
-        "key": "lui",
-        "value":  "he", 
-        "rank":  5       
-    },
+  {
+    "key": "che",
+    "value": "that",
+    "rank": 4
+  },
+  {
+    "key": "lui",
+    "value": "he",
+    "rank": 5
+  },
 
-    {
-        "key": "uno",
-        "value":  "one", 
-        "rank":  14       
-    },
-    {
-        "key": "da",
-        "value":  "since, from, by",        
-        "rank": 17
-    },
-    {
-        "key": "cosa",
-        "value":  "causa, thing, what?",        
-        "rank": 22
-    },
-    {
-        "key": "alcuni",
-        "value":  "some",        
-        "rank": 23
-    },
-    {
+  {
+    "key": "uno",
+    "value": "one",
+    "rank": 14
+  },
+  {
+    "key": "da",
+    "value": "since, from, by",
+    "rank": 17
+  },
+  {
+    "key": "cosa",
+    "value": "causa, thing, what?",
+    "rank": 22
+  },
+  {
+    "key": "alcuni",
+    "value": "some",
+    "rank": 23
+  },
+  {
+    "key": "esso",
+    "value": "it",
+    "rank": 25
+  },
+  {
+    "key": "voi",
+    "value": "you",
+    "rank": 26
+  },
+  {
+    "key": "e",
+    "value": "and",
+    "rank": 32
+  },
 
-        "key": "esso",
-        "value":  "it",        
-        "rank": 25
-    },
-    {
-        "key": "voi",
-        "value":  "you",        
-        "rank": 26
-    },
-    {
-        "key": "e",
-        "value":  "and",        
-        "rank": 32
-    },
+  {
+    "key": "come",
+    "value": "how"
+  },
+  {
+    "key": "noi",
+    "value": "we"
+  },
+  {
+    "key": "con",
+    "value": "with",
+    "rank": 10
+  },
+  {
+    "key": "per",
+    "value": "for"
+  },
+  {
+    "key": "me",
+    "value": "me"
+  },
 
+  {
+    "key": "abbandonai",
+    "value": "v: I abandoned, I ditched"
+  },
+  {
+    "key": "amara",
+    "value": "adj: bitter"
+  },
+  {
+    "key": "amore",
+    "value": "n: love"
+  },
+  {
+    "key": "aspra",
+    "value": "adj: bitter, harsh, sour"
+  },
+  {
+    "key": "atti",
+    "value": "acts"
+  },
+  {
+    "key": "bene",
+    "value": "well, nicely"
+  },
 
+  {
+    "key": "cammini",
+    "value": "path"
+  },
+  {
+    "key": "campo",
+    "value": "field"
+  },
 
-    {
+  {
+    "key": "cerchia",
+    "value": "circle"
+  },
+  {
+    "key": "coda",
+    "value": "tail",
+    "rank": 447
+  },
 
-        "key": "come",
-        "value":  "how"        
-    },
-    {
-        "key": "noi",
-        "value":  "we"        
-    },
-    {
-        "key": "con",
-        "value":  "with",   
-        "rank": 10     
-    },
-    {
-        "key": "per",
-        "value":  "for"        
-    },
-    {
-        "key": "me",
-        "value":  "me"        
-    },
+  {
+    "key": "ché",
+    "value": "surely"
+  },
+  {
+    "key": "colle",
+    "value": "hill, pass (through hills)"
+  },
+  {
+    "key": "giungere",
+    "value": "arrive, join"
+  },
 
-    {
-        "key": "abbandonai",
-        "value":  "v: I abandoned, I ditched"        
-    },
-    {
-        "key": "amara",
-        "value":  "adj: bitter"        
-    },   
-    {
-        "key": "amore",
-        "value":  "n: love"        
-    },   
-    {
-        "key": "aspra",
-        "value":  "adj: bitter, harsh, sour"        
-    },
-    {
-        "key": "atti",
-        "value":  "acts"        
-    },
-    {
-        "key": "bene",
-        "value":  "well, nicely"        
-    },
+  {
+    "key": "chi",
+    "value": "n:who, adv:whose"
+  },
 
-    {
-        "key": "cammini",
-        "value":  "path"        
-    },
-    {
-        "key": "campo",
-        "value":  "field"        
-    },
+  {
+    "key": "di",
+    "value": "of, at, to"
+  },
+  {
+    "key": "dice",
+    "value": "said"
+  },
+  {
+    "key": "dintorno",
+    "value": "adv: round, around"
+  },
 
-    
-    {
-        "key": "cerchia",
-        "value":  "circle"        
-    },
-    {
-        "key": "coda",
-        "value":  "tail",        
-        "rank": 447
-    },
- 
-    {
-        "key": "ché",
-        "value":  "surely"        
-    },
-    {
-        "key": "colle",
-        "value": "hill, pass (through hills)"
-    },
-    {
-        "key": "giungere",
-        "value": "arrive, join"
-    },
+  {
+    "key": "dosso",
+    "value": "hill, hilllock"
+  },
+  {
+    "key": "duro",
+    "value": "hard, tough",
+    "ref": "dura, duri, dure"
+  },
+  {
+    "key": "il",
+    "value": "the, or lì (there, in that place)"
+  },
+  {
+    "key": "era",
+    "value": "was",
+    "examples": [{ "key": "non era", "value": "it wasn't" }]
+  },
 
-    {
-        "key": "chi",
-        "value":  "n:who, adv:whose"        
-    },
+  {
+    "key": "maligno",
+    "value": "adj: malicious, evil"
+  },
 
-    {
-        "key": "di",
-        "value":  "of, at, to"        
-    },
-    {
-        "key": "dice",
-        "value":  "said"        
-    },
-    {
-        "key": "dintorno",
-        "value":  "adv: round, around"        
-    },
-    
-    {
-        "key": "dosso",
-        "value":  "hill, hilllock"        
-    },
-    {
-        "key": "duro",
-        "value":  "hard, tough",        
-        "ref": "dura, duri, dure"
-    },
-    {
-        "key": "il",
-        "value":  "the, or lì (there, in that place)"                
-    },
-    {
-        "key": "era",
-        "value":  "was",        
-        "examples": [{ "key": "non era" ,  "value": "it wasn't"}]
-    },
-    
-    {
-        "key": "maligno",
-        "value":  "adj: malicious, evil"        
-    },
+  {
+    "key": "mezzo",
+    "value": "middle, half"
+  },
+  {
+    "key": "nel",
+    "value": "in"
+  },
+  {
+    "key": "nostre",
+    "value": "ours"
+  },
+  {
+    "key": "nostra",
+    "value": "our"
+  },
+  {
+    "key": "quinci",
+    "value": "hence, from here"
+  },
+  {
+    "key": "sian",
+    "value": "see?"
+  },
+  {
+    "key": "luogo",
+    "value": "place"
+  },
+  {
+    "key": "piede",
+    "value": "foot"
+  },
+  {
+    "key": "pensare",
+    "value": "think   "
+  },
 
-    {
-        "key": "mezzo",
-        "value":  "middle, half"        
-    },
-    {
-        "key": "nel",
-        "value":  "in"        
-    },
-    {
-        "key": "nostre",
-        "value":  "ours"        
-    },
-    {
-        "key": "nostra",
-        "value":  "our"        
-    },
-    {
-        "key": "quinci",
-        "value":  "hence, from here"        
-    },
-    {
-        "key": "sian",
-        "value":  "see?"        
-    },
-    {
-        "key": "luogo", 
-        "value": "place"
-    },
-    {
-        "key": "piede",
-        "value":"foot"
-    },
-    {
-        "key": "pensare",
-        "value":"think   "
-    },
+  {
+    "key": "poi",
+    "value": "then, later    "
+  },
 
-    {
-        "key": "poi",
-        "value":"then, later    "
-    },
+  {
+    "key": "piangendo",
+    "value": "v:weeping"
+  },
 
-    {
-        "key": "piangendo", 
-        "value": "v:weeping"
-    },
-    
-    {
-        "key": "vaneggiare",
-        "value" : "rave (talk wildly)"
-    },
-    {
-        "key": "sazie",
-        "value" : "full up"
-    },
-    {
-        "key": "selva",
-        "value" : "forest"
-    },
-    {
-        "key": "irrita",
-        "value":  "annoyed, upset"        
-    },
-    {
-        "key": "vista",
-        "value":  "sight, view"        
-    },
+  {
+    "key": "vaneggiare",
+    "value": "rave (talk wildly)"
+  },
+  {
+    "key": "sazie",
+    "value": "full up"
+  },
+  {
+    "key": "selva",
+    "value": "forest"
+  },
+  {
+    "key": "irrita",
+    "value": "annoyed, upset"
+  },
+  {
+    "key": "vista",
+    "value": "sight, view"
+  },
 
-    {
-        "key": "vita",
-        "value":  "life",
-        "examples": [{ "key": "nostra vita" ,  "value": "our lives"}]
-    },
-    {
-        "key": "volgere",
-        "value":  "turn, roll"        
-    },
-    {
-        "key": "scorte",
-        "value":  "stock, supplies"        
-    },
-    {
-        "key": "smarrita",
-        "value":  "stray, lost"        
-    },
-    {
-        "key": "soffrire",
-        "value":  "suffer, bear"        
-    },
-    {
-        "key": "quello",
-        "value":  "that those"        
-    },
-    {
-        "key": "questa",
-        "value":  "this, this one"        
-    },
+  {
+    "key": "vita",
+    "value": "life",
+    "examples": [{ "key": "nostra vita", "value": "our lives" }]
+  },
+  {
+    "key": "volgere",
+    "value": "turn, roll"
+  },
+  {
+    "key": "scorte",
+    "value": "stock, supplies"
+  },
+  {
+    "key": "smarrita",
+    "value": "stray, lost"
+  },
+  {
+    "key": "soffrire",
+    "value": "suffer, bear"
+  },
+  {
+    "key": "quello",
+    "value": "that those"
+  },
+  {
+    "key": "questa",
+    "value": "this, this one"
+  },
 
-    {
-        "key": "terminare",
-        "value":  "to end, to terminate"        
-    },
+  {
+    "key": "terminare",
+    "value": "to end, to terminate"
+  },
+
+  {
+    "key": "guardare",
+    "value": "look at, gaze"
+  },
+
+  {
+    "key": "valle",
+    "value": "valley"
+  },
+
+  {
+    "key": "via",
+    "value": "way"
+  },
+
+  {
+    "key": "v’ho",
+    "value": "I have"
+  },
+  {
+    "key": "mi",
+    "value": "I, myself",
+    "examples": [{ "key": "mi ritrovai", "value": "I found myself" }]
+  },
+  {
+    "key": "ritrovai",
+    "value": "ended up",
+    "examples": [{ "key": "mi ritrovai", "value": "I found myself" }]
+  },
+  {
+    "key": "quanto",
+    "value": "adv: how (adv), noun: long, adj: how much "
+  },
+  {
+    "key": "essa",
+    "value": "she,her "
+  },
+  {
+    "key": "forte",
+    "value": "adj: strong, n: hard, adv: hard "
+  },
+  {
+    "key": "paura",
+    "value": "n: fear"
+  },
+  {
+    "key": "selvaggia",
+    "value": "n: savage"
+  },
+  {
+    "key": "trovai",
+    "value": "v: I found"
+  },
+  {
+    "key": "oscura",
+    "value": "dark, gloomy"
+  },
+  {
+    "key": "morte",
+    "value": "death"
+  },
+  {
+    "key": "ma",
+    "value": "but; Interjection: Oh, So"
+  },
+
+  {
+    "key": "più",
+    "value": "more, better, longer"
+  },
+
+  {
+    "key": "non",
+    "value": "not",
+    "examples": [{ "key": "non posso", "value": "I can't" }]
+  },
+  {
+    "key": "là",
+    "value": "adv: out, back, inside",
+    "examples": [{ "key": "là dove", "value": "where" }]
+  },
+
+  {
+    "key": "dove",
+    "value": "adv: where",
+    "examples": [{ "key": "là dove", "value": "where" }]
+  },
+
+  {
+    "key": "corruttibile",
+    "value": "adj: corruptible"
+  },
+  {
+    "key": "pensiero",
+    "value": "n: thought"
+  },
+  {
+    "key": "punto",
+    "value": "n: point, spot"
+  },
+
+  {
+    "key": "affannata",
+    "value": " breathless"
+  },
+  {
+    "key": "altrui",
+    "value": "of others"
+  },
+  {
+    "key": "spalle",
+    "value": "n:back,shoulder,away"
+  },
+  {
+    "key": "pianeta",
+    "value": "n:planet"
+  },
+  {
+    "key": "riva",
+    "value": "n:shore, bank"
+  },
+  {
+    "key": "rinnova",
+    "value": "renewed"
+  },
+
+  {
+    "key": "poco",
+    "value": "adj,n:little, adv:a bit"
+  },
+  {
+    "key": "passo",
+    "value": "adj,n:step,pass,pace"
+  },
+  {
+    "key": "posso",
+    "value": "v:I can"
+  },
+
+  {
+    "key": "uscito",
+    "value": "got out, released"
+  },
+  {
+    "key": "ospizio",
+    "value": "nursing home, home (for elderly)"
+  },
+  {
+    "key": "doloroso",
+    "value": "sorrowful"
+  },
+  {
+    "key": "verace",
+    "value": "true"
+  },
+  {
+    "key": "tu",
+    "value": "you"
+  },
+  {
+    "key": "al",
+    "value": "at the, to the"
+  },
+  {
+    "key": "venire",
+    "value": "come"
+  },
+  {
+    "key": "quale",
+    "value": "what, which"
+  },
+
+  {
+    "key": "orribilmente",
+    "value": "horribly, awfully"
+  },
+  {
+    "key": "ringhiare",
+    "value": "snarl"
+  },
+  {
+    "key": "parlando",
+    "value": "parlare:to speak"
+  },
+  {
+    "key": "avere",
+    "value": "to have"
+  },
+
+  {
+    "key": "suo",
+    "value": "his, hers"
+  },
+  {
+    "key": "drizza",
+    "value": "halyard: a rope used to raise or lower a sail"
+  },
+
+  {
+    "key": "di",
+    "value": "of, by"
+  },
+  {
+    "key": "si",
+    "value": "him-, her-, it-"
+  },
+  {
+    "key": "sì",
+    "value": "yes"
+  },
+  {
+    "key": "purga",
+    "value": "purge"
+  },
+  {
+    "key": "cui",
+    "value": "whom, which, whose"
+  },
+  {
+    "key": "fine",
+    "value": "end"
+  },
+  {
+    "key": "posto",
+    "value": "place,seat"
+  },
+  {
+    "key": "dottore",
+    "value": "doctor"
+  },
+  {
+    "key": "l’alto",
+    "value": "high"
+  },
+  {
+    "key": "mia",
+    "value": "my"
+  },
+  {
+    "key": "parea",
+    "value": "seemed"
+  },  
+  {
+    "key": "s’io",
+    "value": "if I"
+  },  
+
   
-    {
-        "key": "guardare",
-        "value":  "look at, gaze"        
-    },
-  
-    
-    {
-        "key": "valle",
-        "value":  "valley"        
-    },
-    
-    {
-        "key": "via",
-        "value":  "way"        
-    },
-
-    {
-        "key": "v’ho",
-        "value":  "I have"        
-    },
-    {
-        "key": "mi",
-        "value":  "I, myself",        
-        "examples": [{ "key": "mi ritrovai" ,  "value": "I found myself"}]
-    },
-    {
-        "key": "ritrovai",
-        "value":  "ended up",        
-        "examples": [{ "key": "mi ritrovai" ,  "value": "I found myself"}]
-    },
-    {
-        "key": "quanto",
-        "value":  "adv: how (adv), noun: long, adj: how much "        
-    },
-    {
-        "key": "essa",
-        "value":  "she,her "        
-    },
-    {
-        "key": "forte",
-        "value":  "adj: strong, n: hard, adv: hard "        
-    },
-    {
-        "key": "paura",
-        "value":  "n: fear"        
-    },
-    {
-        "key": "selvaggia",
-        "value":  "n: savage"        
-    },
-    {
-        "key": "trovai",
-        "value":  "v: I found"        
-    },
-    {
-        "key": "oscura",
-        "value":  "dark, gloomy"        
-    },   
-    {
-        "key": "morte",
-        "value": "death"        
-    },   
-    {
-        "key": "ma",
-        "value": "but; Interjection: Oh, So"        
-    }, 
-    
-    {
-        "key": "più",
-        "value": "more, better, longer"        
-    } ,
-
-    {
-        "key": "non",
-        "value":  "not",        
-        "examples": [{ "key": "non posso" ,  "value": "I can't"}]
-    }   ,
-    {
-        "key": "là",
-        "value":  "adv: out, back, inside",        
-        "examples": [{ "key": "là dove" ,  "value": "where"}]
-    },
-    
-    {
-        "key": "dove",
-        "value":  "adv: where",        
-        "examples": [{ "key": "là dove" ,  "value": "where"}]
-    }   ,
-
-    {
-        "key": "corruttibile",
-        "value": "adj: corruptible"        
-    } ,  
-    {
-        "key": "pensiero",
-        "value": "n: thought"
-    },
-    {
-        "key": "punto",
-        "value": "n: point, spot"        
-    } ,  
-
-    { 
-        "key": "affannata", 
-        "value": " breathless"
-    },
-    {
-        "key": "altrui",
-        "value":  "of others"        
-    }  ,
-     {
-        "key": "spalle",
-        "value":  "n:back,shoulder,away"        
-    }  ,
-      {
-        "key": "pianeta",
-        "value":  "n:planet"        
-    }  ,
-    {
-        "key": "riva",
-        "value":  "n:shore, bank"        
-    }  ,
-    {
-        "key": "rinnova",
-        "value":  "renewed"        
-    }  ,
-    
-
-    {
-        "key": "poco",
-        "value":  "adj,n:little, adv:a bit"        
-    }  ,
-    {
-        "key": "passo",
-        "value":  "adj,n:step,pass,pace"        
-    }  ,
-    {
-        "key": "posso",
-        "value":  "v:I can"        
-    }  ,
-
-    {
-        "key": "uscito",
-        "value":  "got out, released"        
-    }  ,
-    {
-        "key": "ospizio",
-        "value":  "nursing home, home (for elderly)"        
-} , {
-        "key": "doloroso",
-        "value":  "sorrowful"        
-} ,
-    {
-        "key": "verace",
-        "value":  "true"        
-    }  ,
-    {
-        "key": "tu",
-        "value":  "you"        
-    }  ,
-    {
-        "key": "al",
-        "value":  "at the, to the"        
-    },  
-    {
-        "key": "venire",
-        "value":  "come"        
-    }, 
-    {
-        "key": "quale",
-        "value":  "what, which"        
-    }, 
- 
-    {
-        "key": "orribilmente",
-        "value":  "horribly, awfully"        
-    }, 
-    {
-        "key": "ringhiare",
-        "value":  "snarl"        
-    }, 
-    {
-        "key": "di",
-        "value":  "of, by"        
-    }  
-
+  {
+    "key": "contento",
+    "value": "content, pleased"
+  },
+  {
+    "key": "ragionamento",
+    "value": "reasoning, argument (logical)"
+  },
+  {
+    "key": "timido",
+    "value": "shy, shamefaced"
+  }
+  ,
+  {
+    "key": "s’apriva",
+    "value": "opened"
+  },
+  {
+    "key": "porgere",
+    "value": "to give"
+  },
+  {
+    "key": "parlare",
+    "value": "to talk, to speak"
+  }
+  ,
+  {
+    "key": "quel",
+    "value": "that"
+  },
+  {
+    "key": "padre",
+    "value": "father"
+  },
+  {
+    "key": "verace",
+    "value": "true"
+  },
+  {
+    "key": "s’accorse",
+    "value": "he noticed"
+  },
+  {
+    "key": "volere",
+    "value": "desire,want"
+  },
+  {
+    "key": "Maestro",
+    "value": "teacher"
+  },
+  {
+    "key": "mio",
+    "value": "my, of mine"
+  },
+  {
+    "key": "vedere",
+    "value": "see"
+  },{
+    "key": "s’avviva",
+    "value": "comes alive"
+  }
 ]

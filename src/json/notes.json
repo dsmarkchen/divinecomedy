@@ -112,7 +112,25 @@
     "ref": "18, 3"
 },
 
+  {
+    "key": "avea",
+    "value": "avere",
+    "ref": "P, 18,1"
 
+    },
+    {
+        "key": "porse",
+        "value": "porgere",
+        "ref": "P, 18,9"
+    
+        },
+        {
+            "key": "voler",
+            "value": "volere",
+            "ref": "P, 18,9"
+        
+            },
+         
    {
     "key": "sofferse",
     "value": "soffrire",
@@ -122,5 +140,9 @@
     {
         "key": "pense",
         "value": "pensare"
+    },
+    {
+        "key": "veder",
+        "value": "vedere"
     }
  ]

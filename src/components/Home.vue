@@ -51,6 +51,7 @@ function romanize(num) {
       num -= lookup[i];
     }
   }
+  console.log("romanize " + roman)
   return roman;
 }
 
@@ -70,8 +71,8 @@ export default {
       items: [],
       currentLine: "",
       info: null,
-      canto: "I",
-      current: "Inferno",
+      canto: "XVIII",
+      current: "Purgatorio",
       books: ["Inferno", "Purgatorio", "Paradiso"],
       inferno: [],
       purgatorio: [],
@@ -91,11 +92,20 @@ export default {
           }
         });
       } else {
-        this.purgatorio.forEach((row) => {
-          if (row.show) {
-            rows.push({ line: row.line, nr: row.nr });
-          }
-        });
+        if (this.current == "Purgatorio") {
+          this.purgatorio.forEach((row) => {
+            if (row.show) {
+              rows.push({ line: row.line, nr: row.nr });
+            }
+          });
+        }
+        else {
+          this.paradiso.forEach((row) => {
+            if (row.show) {
+              rows.push({ line: row.line, nr: row.nr });
+            }
+          });
+        }
       }
 
       return rows;
@@ -278,7 +288,7 @@ export default {
       axios
         .get(api)
         .then((response) => {
-          console.log(response.data);
+          //console.log(response.data);
           let res = response.data;
           let lines = res.replace(/\r/gm, "").split("\n");
           this.info = lines;
@@ -369,8 +379,16 @@ export default {
     },
   },
   mounted() {
-    const api = "997-0.txt";
-    this.init(api);
+    if(this.current == "Inferno") {
+      const api = "997-0.txt";
+      this.init(api);
+    }
+    else {
+      const api = "998-0.txt";
+      this.init2(api);
+    }
+    
+
   },
 };
 </script>
