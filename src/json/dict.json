@@ -197,12 +197,65 @@
     "value": "was",
     "examples": [{ "key": "non era", "value": "it wasn't" }]
   },
-
+  {
+    "key": "dimostri",
+    "value": "demonstrate",
+    "examples": [{ "key": "che mi dimostri", "value": "you to show me" }]
+  },
+  {
+    "key": "contrario",
+    "value": "opposite"
+    
+  },
+  {
+    "key": "ad",
+    "value": "to, at, in"
+  },
+  {
+    "key": "atto",
+    "value": "act"
+  },
+  {
+    "key": "lei",
+    "value": "you,her"
+  },
+  {
+    "key": "discernere",
+    "value": "discern, to see clearly"
+  },
+  {
+    "key": "desto",
+    "value": "awake"
+  },
+  {
+    "key": "essere",
+    "value": "to be, to have"
+  },
+  {
+    "key": "piacere",
+    "value": "v: like, n: delight, pleasure"
+  },
+  {
+    "key": "piegare",
+    "value": "fold"
+  },
+  {
+    "key": "piacer",
+    "value": "pleasure"
+  },
+  
+  {
+    "key": "presto",
+    "value": "soon, early, quickly"
+  },
   {
     "key": "maligno",
     "value": "adj: malicious, evil"
   },
-
+  {
+    "key": "creato",
+    "value": "created, designed"
+  },
   {
     "key": "mezzo",
     "value": "middle, half"
@@ -525,9 +578,28 @@
     "value": "whom, which, whose"
   },
   {
+    "key": "buono",
+    "value": "good,fair"
+  }, 
+  {
+    "key": "operare",
+    "value": "operate, work, perform"
+  },
+
+  {
+    "key": "reduci",
+    "value": "n:veteran, adj: returning"
+  },
+  {
+    "key": "ogne",
+    "value": "each,every"
+  },
+
+  {
     "key": "fine",
     "value": "end"
   },
+
   {
     "key": "posto",
     "value": "place,seat"
@@ -614,5 +686,66 @@
   },{
     "key": "s’avviva",
     "value": "comes alive"
+  },
+  {
+    "key": "nouva",
+    "value": "new"
+  },
+  {
+    "key": "sete",
+    "value": "thirst"
+  },
+  {
+    "key": "apprensivo",
+    "value": "apprehensive"
   }
+  ,
+  {
+    "key": "tragge",
+    "value": "draw, extract, pull",
+    "bias": "trarre"
+  },
+  {
+    "key": "intenzione",
+    "value": "intention,going"
+    
+  },
+  {
+    "key": "spiega",
+    "value": "explain;unfold",
+    "bias": "spiegare"
+  },
+  {
+    "key": "dentro",
+    "value": "within,inwardly"
+    
+  },
+  {
+    "key": "volger",
+    "value": "turn",
+    "bias": "volgere"
+  },
+  {
+    "key": "face",
+    "value": "to do, to make, to act",
+    "bias": "fare"
+  },
+  {
+    "key": "ch’io",
+    "value": "that I"
+  },{
+    "key": "chiaro",
+    "value": "clear"
+  },{
+    "key": "canto",
+    "value": "song"
+  },{
+    "key": "vago",
+    "value": "vague,hazy"
+  },{
+    "key": "volsi",
+    "value": "I turned"
+  }
+
+
 ]

@@ -325,7 +325,7 @@ export default {
                 });
             }
           }
-          self.rows_length = nr;
+          self.filter(self.canto);          
         })
         .catch(function (error) {
           if (error.response) {

@@ -144,5 +144,25 @@
     {
         "key": "veder",
         "value": "vedere"
+    },
+    {
+        "key": "nova",
+        "value": "nouva"
+    },
+    {
+        "key":"piace",
+        "value": "piacere"
+    },
+    {
+        "key":"esser",
+        "value": "essere"
+    },
+    {
+        "key":"apprensiva",
+        "value": "apprensivo"
+    },
+    {
+        "key":"discerno",
+        "value": "discernere"
     }
  ]
