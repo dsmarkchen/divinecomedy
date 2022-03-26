@@ -77,6 +77,15 @@
     "rank": 26
   },
   {
+    "key": "tuo",
+    "value": "your"   
+  },
+  {
+    "key": "l’animo",
+    "value": "the soul"   
+  },
+
+  {
     "key": "e",
     "value": "and",
     "rank": 32
@@ -746,6 +755,127 @@
     "key": "volsi",
     "value": "I turned"
   }
+  ,{
+    "key": "fare",
+    "value": "do,make,act"
+  }
+  ,{
+    "key": "li",
+    "value": "there"
+  }
 
-
+  ,{
+    "key": "grava",
+    "value": "burden"
+  }
+  ,{
+    "key": "lume",
+    "value": "lamp"
+  }
+  ,{
+    "key": "parta",
+    "value": "start"
+  } ,{
+    "key": "descriva",
+    "value": "describe"
+  }  ,{
+    "key": "ragione",
+    "value": "reason,right"
+  }   ,{
+    "key": "prego",
+    "value": "pray"
+  }      
+  ,{
+    "key": "ardire",
+    "value": "courage, dare"
+  }   ,{
+    "key": "dolce",
+    "value": "sweet"
+  }   ,{
+    "key": "luci",
+    "value": "lights"
+  }   ,{
+    "key": "fieti",
+    "value": "happy"
+  }    ,{
+    "key": "duce",
+    "value": "leader, captain"
+  }    ,{
+    "key": "tosto",
+    "value": "adv: immediately, adj: rapid, hard,tough"
+  }    ,{
+    "key": "vostra",
+    "value": "yours"
+  } ,
+  {
+    "key": "ricorditi",
+    "value": "remember"   
+  },{
+    "key": "lettore",
+    "value": "reader"   
+  },{
+    "key": "piangëa",
+    "value": "cry"   
+  },{
+    "key": "piangevan",
+    "value": "cried"   
+  }
+,{
+    "key": "elli",
+    "value": "that,those"   
+  }
+  ,{
+    "key": "pelle",
+    "value": "skin"   
+  }
+  ,{
+    "key": "talpa",
+    "value": "mole"   
+  }
+  ,{
+    "key": "altrimenti",
+    "value": "otherwise"   
+  }
+  ,{
+    "key": "mai",
+    "value": "never,ever"   
+  } ,{
+    "key": "vedessi",
+    "value": "vedere: see, look at"   
+  },
+  {
+    "key": "ti",
+    "value": "you"
+  },
+  {
+    "key": "nebbia",
+    "value": "fog,mist"
+  },
+  {
+    "key": "colse",
+    "value": "cogliere:caught"
+  }
+  ,
+  {
+    "key": "quando",
+    "value": "when"
+  },
+  {
+    "key": "esso",
+    "value": "it"
+  }
+  ,
+  {
+    "key": "sole",
+    "value": "sun"
+  }
+  ,
+  {
+    "key": "entra",
+    "value": "enter"
+  } ,
+  {
+    "key": "già",
+    "value": "already"
+  }
 ]

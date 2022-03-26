@@ -164,5 +164,43 @@
     {
         "key":"discerno",
         "value": "discernere"
+    },
+    {
+
+        "key":"fo",
+        "value": "fare"
+    },
+    {
+
+        "key":"ragion",
+        "value": "ragione"
+    }, {
+
+        "key":"ardir",
+        "value": "ardire"
+    }, {
+
+        "key":"fanno",
+        "value": "fare"
+    }, {
+
+        "key":"duci",
+        "value": "duce"
+    }, {
+
+        "key":"lettor",
+        "value": "lettore"
+    }, {
+
+        "key":"talpe",
+        "value": "talpa"
+    }, {
+
+        "key":"essi",
+        "value": "esso"
+    }, {
+
+        "key":"sol",
+        "value": "sole"
     }
  ]
