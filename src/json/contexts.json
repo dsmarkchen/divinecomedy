@@ -1,0 +1,70 @@
+[
+  {
+    "book": "inferno",
+    "canto": "1",
+    "context": [
+      {
+        "l": "1",
+        "t": [
+          "In middle of the path of our life",
+          "I came to my senses of so dark a forest",
+          "Surely the direct way was lost"
+        ]
+      },
+      {
+        "l": "4",
+        "t": [
+          "Ah how to tell that was is this hard thing",
+          "this forest savage, bitter and harsh",
+          "that in every thought renews the fear!"
+        ]
+      },
+      {
+        "l": "7",
+        "t": [
+          "So much is bitter, the little is more death",
+          "But for trait to good that I found",
+          "I'll say that the rest that I've supplies"
+        ]
+      },
+      {
+        "l": "10",
+        "t": [
+          "I cannot well recount how I entered the wood",
+          "so full of sleep at that point",
+          "that the true way was abandoned "
+        ]
+      },
+      {
+        "l": "13",
+        "t": [
+          "but then at the foot of the hill arrived ",
+          "back to where end that valley",
+          "that my heart to fear to contrite "
+        ]
+      }
+    ]
+  },
+  {
+    "book": "purgatorio",
+    "canto": "18",
+    "context": [
+      {
+        "l": 1,
+        "t": [
+          "place to have ended the reasoning",
+          "high doctor, and attentive",
+          "in my view if I seemed content"
+        ]
+      },
+      {
+        "l": 4,
+        "t": [
+          "and I, who has new thrist",
+          "to and within ",
+          "in my view if I seemed content"
+        ]
+      }
+    ]
+  }
+]
