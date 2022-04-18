@@ -14,8 +14,8 @@
       {
         "l": "4",
         "t": [
-          "Ah how to tell that was is this hard thing",
-          "this forest savage, bitter and harsh",
+          "Ah how much to tell that was is this hard stuff",
+          "this forest (is) savage, bitter and harsh",
           "that in every thought renews the fear!"
         ]
       },
@@ -42,7 +42,25 @@
           "back to where end that valley",
           "that my heart to fear to contrite "
         ]
+      },
+      {
+        "l": "16",
+        "t": [
+          "look up and saw his shoulders",
+          "dressed already the rays of the planet ",
+          "that lead straight of others for every street"
+        ]
+      },
+      {
+        "l": "19",
+        "t": [
+          "Then was the fear quieted",
+          "that in lake of heart it struck me the duration ",
+          ""
+        ]
       }
+
+
     ]
   },
   {
@@ -63,6 +81,20 @@
           "and I, who has new thrist",
           "to and within ",
           "in my view if I seemed content"
+        ]
+      }
+    ]
+  },
+  {
+    "book": "purgatorio",
+    "canto": "31",
+    "context": [      
+      {
+        "l": 34,
+        "t": [
+          "weeping I said: the present thing",
+          "with false pleasure turn my pass",
+          "immediately as your face hide"
         ]
       }
     ]

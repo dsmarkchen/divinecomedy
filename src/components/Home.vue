@@ -105,7 +105,7 @@ export default {
       return ["nr", "line"];
     },
     context_fields() {
-      return ["context"];
+      return ["annotation"];
     },
 
     rows() {
@@ -234,7 +234,7 @@ export default {
               book: this.current,
               canto: this.cantoNum,
               nr: item.nr,
-              context: val[0].t[ind],
+              annotation: val[0].t[ind],
             };
             this.contexts.push(context);
           }

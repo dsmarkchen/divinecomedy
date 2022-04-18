@@ -206,5 +206,14 @@
 
         "key":"tant",
         "value": "tanto"
+    }, {
+
+        "key":"pieta",
+        "value": "pietà"
+    }, 
+    {
+        "key":"stelle",
+        "value": "stella"
     }
+
  ]

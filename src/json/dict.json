@@ -78,11 +78,11 @@
   },
   {
     "key": "tuo",
-    "value": "your"   
+    "value": "your"
   },
   {
     "key": "l’animo",
-    "value": "the soul"   
+    "value": "the soul"
   },
 
   {
@@ -214,7 +214,6 @@
   {
     "key": "contrario",
     "value": "opposite"
-    
   },
   {
     "key": "ad",
@@ -252,7 +251,7 @@
     "key": "piacer",
     "value": "pleasure"
   },
-  
+
   {
     "key": "presto",
     "value": "soon, early, quickly"
@@ -431,7 +430,7 @@
   },
   {
     "key": "ma",
-    "value": "but; Interjection: Oh, So"
+    "value": "but"
   },
 
   {
@@ -589,7 +588,7 @@
   {
     "key": "buono",
     "value": "good,fair"
-  }, 
+  },
   {
     "key": "operare",
     "value": "operate, work, perform"
@@ -628,13 +627,12 @@
   {
     "key": "parea",
     "value": "seemed"
-  },  
+  },
   {
     "key": "s’io",
     "value": "if I"
-  },  
+  },
 
-  
   {
     "key": "contento",
     "value": "content, pleased"
@@ -646,8 +644,7 @@
   {
     "key": "timido",
     "value": "shy, shamefaced"
-  }
-  ,
+  },
   {
     "key": "s’apriva",
     "value": "opened"
@@ -659,8 +656,7 @@
   {
     "key": "parlare",
     "value": "to talk, to speak"
-  }
-  ,
+  },
   {
     "key": "quel",
     "value": "that"
@@ -692,7 +688,8 @@
   {
     "key": "vedere",
     "value": "see"
-  },{
+  },
+  {
     "key": "s’avviva",
     "value": "comes alive"
   },
@@ -707,8 +704,7 @@
   {
     "key": "apprensivo",
     "value": "apprehensive"
-  }
-  ,
+  },
   {
     "key": "tragge",
     "value": "draw, extract, pull",
@@ -717,7 +713,6 @@
   {
     "key": "intenzione",
     "value": "intention,going"
-    
   },
   {
     "key": "spiega",
@@ -727,7 +722,6 @@
   {
     "key": "dentro",
     "value": "within,inwardly"
-    
   },
   {
     "key": "volger",
@@ -742,106 +736,123 @@
   {
     "key": "ch’io",
     "value": "that I"
-  },{
+  },
+  {
     "key": "chiaro",
     "value": "clear"
-  },{
+  },
+  {
     "key": "canto",
     "value": "song"
-  },{
+  },
+  {
     "key": "vago",
     "value": "vague,hazy"
-  },{
+  },
+  {
     "key": "volsi",
     "value": "I turned"
-  }
-  ,{
+  },
+  {
     "key": "fare",
     "value": "do,make,act"
-  }
-  ,{
+  },
+  {
     "key": "li",
     "value": "there"
-  }
+  },
 
-  ,{
+  {
     "key": "grava",
     "value": "burden"
-  }
-  ,{
+  },
+  {
     "key": "lume",
     "value": "lamp"
-  }
-  ,{
+  },
+  {
     "key": "parta",
     "value": "start"
-  } ,{
+  },
+  {
     "key": "descriva",
     "value": "describe"
-  }  ,{
+  },
+  {
     "key": "ragione",
     "value": "reason,right"
-  }   ,{
+  },
+  {
     "key": "prego",
     "value": "pray"
-  }      
-  ,{
+  },
+  {
     "key": "ardire",
     "value": "courage, dare"
-  }   ,{
+  },
+  {
     "key": "dolce",
     "value": "sweet"
-  }   ,{
+  },
+  {
     "key": "luci",
     "value": "lights"
-  }   ,{
+  },
+  {
     "key": "fieti",
     "value": "happy"
-  }    ,{
+  },
+  {
     "key": "duce",
     "value": "leader, captain"
-  }    ,{
+  },
+  {
     "key": "tosto",
     "value": "adv: immediately, adj: rapid, hard,tough"
-  }    ,{
+  },
+  {
     "key": "vostra",
     "value": "yours"
-  } ,
+  },
   {
     "key": "ricorditi",
-    "value": "remember"   
-  },{
+    "value": "remember"
+  },
+  {
     "key": "lettore",
-    "value": "reader"   
-  },{
+    "value": "reader"
+  },
+  {
     "key": "piangëa",
-    "value": "cry"   
-  },{
+    "value": "cry"
+  },
+  {
     "key": "piangevan",
-    "value": "cried"   
-  }
-,{
+    "value": "cried"
+  },
+  {
     "key": "elli",
-    "value": "that,those"   
-  }
-  ,{
+    "value": "that,those"
+  },
+  {
     "key": "pelle",
-    "value": "skin"   
-  }
-  ,{
+    "value": "skin"
+  },
+  {
     "key": "talpa",
-    "value": "mole"   
-  }
-  ,{
+    "value": "mole"
+  },
+  {
     "key": "altrimenti",
-    "value": "otherwise"   
-  }
-  ,{
+    "value": "otherwise"
+  },
+  {
     "key": "mai",
-    "value": "never,ever"   
-  } ,{
+    "value": "never,ever"
+  },
+  {
     "key": "vedessi",
-    "value": "vedere: see, look at"   
+    "value": "vedere: see, look at"
   },
   {
     "key": "ti",
@@ -854,8 +865,7 @@
   {
     "key": "colse",
     "value": "cogliere:caught"
-  }
-  ,
+  },
   {
     "key": "quando",
     "value": "when"
@@ -863,33 +873,145 @@
   {
     "key": "esso",
     "value": "it"
-  }
-  ,
+  },
   {
     "key": "sole",
     "value": "sun"
-  }
-  ,
+  },
   {
     "key": "entra",
     "value": "enter"
-  } ,
+  },
   {
     "key": "già",
     "value": "already"
-  }
-  ,
+  },
+  {
+    "key": "alto",
+    "value": "high"
+  },
+  {
+    "key": "vidi",
+    "value": "I saw"
+  },
+  {
+    "key": "sue",
+    "value": "his, yours"
+  },
+  {
+    "key": "raggi",
+    "value": "rays"
+  },
+  {
+    "key": "lago",
+    "value": "lake"
+  },
+  {
+    "key": "cor",
+    "value": "heart"
+  },
+  {
+    "key": "vestite",
+    "value": "dressed"
+  },
   {
     "key": "tanto",
     "value": "so much"
-  } ,
+  },
   {
     "key": "dirò",
     "value": "I would say"
-  }
-  ,
+  },
+  {
+    "key": "pietà",
+    "value": "mercy, pity, compassion"
+  },
   {
     "key": "sonno",
     "value": "sleeping"
+  },
+  {
+    "key": "lena",
+    "value": "torch"
+  },
+  {
+    "key": "nascose",
+    "value": "hide"
+  },
+  {
+    "key": "vostro",
+    "value": "your"
+  },
+  {
+    "key": "viso",
+    "value": "face"
+  },
+  {
+    "key": "col",
+    "value": "with"
+  },
+  {
+    "key": "dissi",
+    "value": "i said"
+  },
+  {
+    "key": "ella",
+    "value": "she"
+  },
+  {
+    "key": "ed",
+    "value": "and"
+  },
+  {
+    "key": "volgendo",
+    "value": "turning"
+  },
+  {
+    "key": "fiume",
+    "value": "river"
+  },
+  {
+    "key": "sacro",
+    "value": "sacred"
+  },
+  {
+    "key": "dal",
+    "value": "from, by"
+  },
+  {
+    "key": "fioco",
+    "value": "dim, faint"
+  },
+  {
+    "key": "strinse",
+    "value": "shook,squeezed"
+  },
+  {
+    "key": "carità",
+    "value": "charity, love"
+  },
+  {
+    "key": "natio",
+    "value": "native"
+  },
+  {
+    "key": "fronde",
+    "value": "branches"
+  },
+  {
+    "key": "nove",
+    "value": "nine"
+  },
+  {
+    "key": "mattino",
+    "value": "morning"
+  },
+  {
+    "key": "quelle",
+    "value": "quello: those"
+  },
+  {
+    "key": "stella",
+    "value": "star"
   }
 ]
