@@ -4,7 +4,10 @@
     "value": "as",
     "rank": 1
   },
-
+  {
+    "key": "lo",
+    "value": "the"    
+  },
   {
     "key": "io",
     "value": "I",
@@ -15,9 +18,48 @@
     "value": "in"
   },
   {
+    "key": "spiritale",
+    "value": "spirituale: spiritual"
+  },
+  {
+    "key": "fa",
+    "value": "early,done"
+  },
+  {
+    "key": "fin",
+    "value": "since"
+  },
+  {
+    "key": "gioire",
+    "value": "rejoyce, delight"
+  },
+  {
+    "key": "amata",
+    "value": "beloved,lover"
+  },
+  {
     "key": "un",
     "value": "an"
+  }, {
+    "key": "così",
+    "value": "so"
   },
+  {
+    "key": "posa",
+    "value": "pose,laying,pause"    
+  },
+  {
+    "key": "sua",
+    "value": "his, her"    
+  }, {
+    "key": "cozzo",
+    "value": "clash"    
+  },
+  {
+    "key": "smarrirsi",
+    "value": "get lost"    
+  },
+
   {
     "key": "è",
     "value": "is"
@@ -34,7 +76,14 @@
     "key": "a",
     "value": "at,to"
   },
-
+  {
+    "key": "dar",
+    "value": "give"
+  },
+  {
+    "key": "forse",
+    "value": "maybe,perhaps"
+  },
   {
     "key": "che",
     "value": "that",
@@ -120,6 +169,30 @@
   {
     "key": "amara",
     "value": "adj: bitter"
+  },
+  {
+    "key": "amare",
+    "value": "to love"
+  },
+  {
+    "key": "però",
+    "value": "however"
+  },
+  {
+    "key": "preso",
+    "value": "taken,made"
+  },
+  {
+    "key": "moto",
+    "value": "motion, ride"
+  },
+  {
+    "key": "intelletto",
+    "value": "intelllect, understanding"
+  },
+  {
+    "key": "mobile",
+    "value": "moving,movable"
   },
   {
     "key": "amore",
@@ -366,12 +439,53 @@
     "key": "terminare",
     "value": "to end, to terminate"
   },
-
+  {
+    "key": "l’occhio",
+    "value": "eye"
+  },{
+    "key": "aperto",
+    "value": "open"
+  },
+  {
+    "key": "stare",
+    "value": "stay"
+  },
+  {
+    "key": "cieco",
+    "value": "blind"
+  },
+  {
+    "key": "né",
+    "value": "without"
+  },
+  {
+    "key": "fummo",
+    "value": "we were"
+  },
+  {
+    "key": "coperse",
+    "value": "covered"
+  },
+  {
+    "key": "aspro",
+    "value": "sour"
+  },
+  {
+    "key": "sentire",
+    "value": "feel, listen"
+  },
+  {
+    "key": "pelo",
+    "value": "hair"
+  },
   {
     "key": "guardare",
     "value": "look at, gaze"
   },
-
+  {
+    "key": "guida",
+    "value": "guide, help"
+  },
   {
     "key": "valle",
     "value": "valley"
@@ -491,8 +605,11 @@
   {
     "key": "rinnova",
     "value": "renewed"
+  },  
+  {
+      "key":"d’ogne",
+      "value": "of all, of all"
   },
-
   {
     "key": "poco",
     "value": "adj,n:little, adv:a bit"
@@ -658,6 +775,10 @@
     "value": "to talk, to speak"
   },
   {
+    "key": "nuvola",
+    "value": "cloud"
+  },
+  {
     "key": "quel",
     "value": "that"
   },
@@ -672,6 +793,18 @@
   {
     "key": "s’accorse",
     "value": "he noticed"
+  },
+  {
+    "key": "notte",
+    "value": "night"
+  },
+  {
+    "key": "può",
+    "value": "can, allowed"
+  },
+  {
+    "key": "buio",
+    "value": "dark,blind"
   },
   {
     "key": "volere",
@@ -698,8 +831,80 @@
     "value": "new"
   },
   {
+    "key": "gride",
+    "value": "proclaimations"
+  },
+  {
+    "key": "malizia",
+    "value": "malice,wickedness"
+  },
+  {
+    "key": "priego",
+    "value": "prayer"
+  },
+  {
+    "key": "chiamato",
+    "value": "called, named"
+  },
+  {
+    "key": "fui",
+    "value": "I was"
+  },
+  {
+    "key": "mondo",
+    "value": "world"
+  },
+  {
+    "key": "seppi",
+    "value": "I knew, I heard"
+  },
+  {
+    "key": "valare",
+    "value": "value"
+  },
+  {
+    "key": "amai",
+    "value": "I loved"
+  },
+  {
     "key": "sete",
     "value": "thirst"
+  },
+  {
+    "key": "l’arco",
+    "value": "the whole, period"
+  },
+  {
+    "key": "su",
+    "value": "up"
+  },
+  {
+    "key": "saputa",
+    "value": "known how"
+  },
+  {
+    "key": "fida",
+    "value": "faithful, trust"
+  },
+  {
+    "key": "onde",
+    "value": "waves, hence"
+  },
+  {
+    "key": "scorta",
+    "value": "escort,supply"
+  },
+  {
+    "key": "disteso",
+    "value": "lying, lay"
+  },
+  {
+    "key": "ciascun",
+    "value": "per, each"
+  },
+  {
+    "key": "tenebroza",
+    "value": "dark, gloomy"
   },
   {
     "key": "apprensivo",
@@ -1013,5 +1218,86 @@
   {
     "key": "stella",
     "value": "star"
+  },
+  {
+    "key": "maculato",
+    "value": "spotted"
+  },
+  {
+    "key": "molto",
+    "value": "very"
+  },
+  {
+    "key": "lonza",
+    "value": "lion"
+  },
+  {
+    "key": "posato",
+    "value": "laid"
+  },
+  {
+    "key": "corpo",
+    "value": "body"
+  },
+  {
+    "key": "lasso",
+    "value": "length"
+  },
+  {
+    "key": "ripresi",
+    "value": "resumed, recovered"
+  },
+  {
+    "key": "deserta",
+    "value": "defects"
+  },
+  {
+    "key": "volto",
+    "value": "face"
+  },
+  {
+    "key": "volte",
+    "value": "times",
+    "examples": [{ "key": "più volte", "value": "several times" }]
+  },
+  {
+    "key": "cielo",
+    "value": "sky"
+  },
+  {
+    "key": "sotto",
+    "value": "under"
+  },
+  {
+    "key": "voci",
+    "value": "voices"
+  },
+  {
+    "key": "fuor",
+    "value": "out, beyond"
+  },
+  {
+    "key": "io",
+    "value": "him,this,she;the,will"
+  },
+  {
+    "key": "troppo",
+    "value": "too much, enough"
+  }, {
+    "key": "domandare",
+    "value": "to ask, to demand"
+  },
+  {
+    "key": "pace",
+    "value": "peace"
+  },
+  {
+    "key": "misericordia",
+    "value": "mercy,compassion"
+  },
+
+  {
+    "key": "pover",
+    "value": "poor"
   }
 ]

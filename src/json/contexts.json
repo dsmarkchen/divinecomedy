@@ -65,12 +65,36 @@
   },
   {
     "book": "purgatorio",
+    "canto": "16",
+    "context": [      
+      {
+        "l": 1,
+        "t": [
+          "dark, and of night deprived",
+          "of every planet, under poor sky",
+          "as much as to have (possibly?) cloud gloomy"
+        ]
+      },
+      {
+        "l": 7,
+        "t": [
+          "",
+          "hence escort, my known and faithful",
+          "come close and offered my his shoulder"
+        ]
+      }
+      
+
+    ]
+  },
+  {
+    "book": "purgatorio",
     "canto": "18",
     "context": [
       {
         "l": 1,
         "t": [
-          "place to have ended the reasoning",
+          "place to have ended his explaination",
           "high doctor, and attentive",
           "in my view if I seemed content"
         ]
@@ -79,12 +103,53 @@
         "l": 4,
         "t": [
           "and I, who has new thrist",
-          "to and within ",
-          "in my view if I seemed content"
+          "of outside xxx and within xxx: maybe ",
+          "too much qestion to burden"
+        ]
+      },
+      {
+        "l": 7,
+        "t": [
+          "but that true father, he noticed",
+          "of shy desire that not opened up",
+          "speak , to encourge speak me to give"
+        ]
+      },
+      {
+        "l": 10,
+        "t": [
+          "then I: master to see comes alive",
+          "yes in your lamp, I see clearly",
+          "how your reason start to describe"
+        ]
+      },
+      {
+        "l": 13,
+        "t": [
+          "pray, gentle true father",
+          "that demonstrate what love is,  to who",
+          "return every good operate at his or contrary"
+        ]
+      },
+      {
+        "l": 19,
+        "t": [
+          "the soul, created quick to love",
+          "each",
+          ""
+        ]
+      },
+      {
+        "l": 31,
+        "t": [
+          "so the soul made enter in desire",
+          "ride xxx ,never not pose",
+          "since that beloved thing has made it delight"
         ]
       }
     ]
   },
+
   {
     "book": "purgatorio",
     "canto": "31",

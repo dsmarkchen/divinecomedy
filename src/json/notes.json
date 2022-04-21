@@ -214,6 +214,32 @@
     {
         "key":"stelle",
         "value": "stella"
+    },
+    {
+        "key":"pianeto",
+        "value": "pianeta"
+    },
+    {
+        "key":"nuvol",
+        "value": "nuvola"
+    }, {
+        "key":"tenebrata",
+        "value": "tenebroza"
+    }, {
+        "key":"suso",
+        "value": "su"
     }
-
+    , {
+        "key":"sentir",
+        "value": "sentire"
+    }, {
+        "key": "dimandar",
+        "value": "domandare"
+      }, {
+        "key": "amar",
+        "value": "amare"
+      }, {
+        "key": "’ntelletto",
+        "value": "intelletto"
+      }
  ]
