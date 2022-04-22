@@ -1,5 +1,17 @@
 [
   {
+    "key": "amor",
+    "value": "n:love"
+  },
+  {
+    "key": "nouvo",
+    "value": "new"
+  },
+  {
+    "key": "mirava",
+    "value":  "sought"        
+  },
+  {
     "key": "come",
     "value": "as",
     "rank": 1
@@ -1292,12 +1304,112 @@
     "value": "peace"
   },
   {
-    "key": "misericordia",
-    "value": "mercy,compassion"
+    "key": "disse",
+    "value": "said,saying, told"
+  },
+  {
+    "key": "rivolto",
+    "value": "aimed, facing"
+  },
+  {
+    "key": "ciechi",
+    "value": "blind"
   },
 
   {
+    "key": "misericordia",
+    "value": "mercy,compassion"
+  },
+  {
+    "key": "altura",
+    "value": "hill, offshore"
+  },
+  {
+    "key": "venne",
+    "value":  "was, came"        
+  },
+  {
+    "key": "salire",
+    "value": "climb"
+  },
+  {
+    "key": "sogno",
+    "value":  "dream"        
+  },
+  {
+    "key": "luna",
+    "value":  "moon"        
+  },
+  {
+    "key": "occhi",
+    "value":  "eyes"        
+  },
+  {
+    "key": "guercia",
+    "value":  "squinter"        
+  },
+  {
+    "key": "distorta",
+    "value":  "distorted, twisted"        
+  },
+  {
+    "key": "monche",
+    "value":  "incompleted, cripple"        
+  },
+  {
+    "key": "mano",
+    "value":  "hand"        
+  },
+  {
+    "key": "scialba",
+    "value":  "dull, colorless"        
+  },
+  {
+    "key": "balbo",
+    "value":  "stammering"        
+  },
+  {
+    "key": "femmina",
+    "value":  "female,woman"        
+  },
+  {
+    "key": "veritate",
+    "value": "truth"
+  },
+  {
+    "key": "nascosa",
+    "value": "hidden, hide"
+  },
+  {
+    "key": "materia",
+    "value": "matter;subject"
+  },
+  {
+    "key": "ciascun",
+    "value": "each"
+  },
+  {
+    "key": "laudabil",
+    "value": "praiseworthy"
+  },
+  {
     "key": "pover",
     "value": "poor"
+  },
+  {
+    "key": "fredde",
+    "value": "cold"
+  },
+  {
+    "key": "membra ",
+    "value": "limbs"
+  },
+  {
+    "key": "conforta",
+    "value": "comforting"
+  },
+  {
+    "key": "lega",
+    "value": "alloy, bind"
   }
 ]

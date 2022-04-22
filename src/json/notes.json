@@ -1,5 +1,10 @@
 [
     {
+        "key": "novo",
+        "value":  "nouvo"        
+    },
+
+    {
         "key": "cammin",
         "value":  "cammini"        
     },
@@ -7,6 +12,7 @@
         "key": "del",
         "value":  "di"        
     },
+   
     {
         "key": "dicer",
         "value": "dice"
@@ -14,6 +20,22 @@
     {
         "key": "esta",
         "value":  "questa"        
+    },
+    {
+        "key": "sempre",
+        "value":  "always,ever"        
+    },
+    {
+        "key": "matera",
+        "value":  "materia"        
+    },
+    {
+        "key": "balba",
+        "value":  "balbo"        
+    },
+    {
+        "key": "man",
+        "value":  "mano"        
     },
     {
         "key": "cose",
