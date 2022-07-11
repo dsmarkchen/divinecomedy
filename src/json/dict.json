@@ -336,7 +336,41 @@
     "key": "piacer",
     "value": "pleasure"
   },
-
+  {
+    "key": "spande",
+    "value": "spandere:spread"
+  },{
+    "key": "grosso",
+    "value": "thick,heavy"
+  },
+  {
+    "key": "ala",
+    "value": "wing"
+  },
+  {
+    "key": "mare",
+    "value": "sea"
+  },
+  {
+    "key": "terra",
+    "value": "earth"
+  },
+  {
+    "key": "battere",
+    "value": "to beat, to defeat"
+  },
+  {
+    "key": "guardare",
+    "value": "to look at, gaze at"
+  },
+  {
+    "key": "grande",
+    "value": "big,large,wide"
+  },
+  {
+    "key": "vedere",
+    "value": "to see, to meet"
+  },
   {
     "key": "presto",
     "value": "soon, early, quickly"
@@ -967,6 +1001,26 @@
     "value": "vague,hazy"
   },
   {
+    "key": "farsi",
+    "value": "to make, to become"
+  },
+  {
+    "key": "girato",
+    "value": "turned,endorsed"
+  },
+  {
+    "key": "monte",
+    "value": "montain,heap"
+  },
+  {
+    "key": "ecco",
+    "value": "here"
+  },
+  {
+    "key": "verso",
+    "value": "verse"
+  },
+  {
     "key": "volsi",
     "value": "I turned"
   },
@@ -976,9 +1030,12 @@
   },
   {
     "key": "li",
-    "value": "there"
+    "value": "the;them"
   },
-
+  {
+    "key": "oscuro",
+    "value": "dark, obscure"
+  },
   {
     "key": "grava",
     "value": "burden"
@@ -1403,6 +1460,50 @@
   {
     "key": "membra ",
     "value": "limbs"
+  },
+  {
+    "key": "puro",
+    "value": "pure"
+  },
+  {
+    "key": "occhi",
+    "value": "eyes"
+  },
+  {
+    "key": "ne",
+    "value": "thence"
+  },
+  {
+    "key": "sempre",
+    "value": "always,still"
+  },
+  {
+    "key": "guisa",
+    "value": "(literary) manner, way"
+  },
+  {
+    "key": "vespero",
+    "value": "(astronomy) Venus, evening star"
+  },
+  {
+    "key": "questo",
+    "value": "this"
+  },
+  {
+    "key": "qui",
+    "value": "here"
+  },
+  {
+    "key": "mezza",
+    "value": "half hour"
+  },
+  {
+    "key": "tolse",
+    "value": "stole"
+  },
+  {
+    "key": "l’aere",
+    "value": "air"
   },
   {
     "key": "conforta",

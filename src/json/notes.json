@@ -12,6 +12,14 @@
         "key": "del",
         "value":  "di"        
     },
+    {
+        "key": "vede",
+        "value": "vedere"
+    },
+    {
+        "key": "pur",
+        "value": "puro"
+    },
    
     {
         "key": "dicer",
@@ -263,5 +271,13 @@
       }, {
         "key": "’ntelletto",
         "value": "intelletto"
+      }
+      , {
+        "key": "batti",
+        "value": "battere"
+      }
+      , {
+        "key": "l’ali",
+        "value": "ala"
       }
  ]
