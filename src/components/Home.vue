@@ -91,8 +91,8 @@ export default {
       contexts: [],
       currentLine: "",
       info: null,
-      canto: "XV",
-      cantoNum: 15,
+      canto: "XIX",
+      cantoNum: 19,
       current: "Purgatorio",
       books: ["Inferno", "Purgatorio", "Paradiso"],
       inferno: [],
@@ -165,7 +165,7 @@ export default {
       const pattern = new RegExp(/\.|:|;|\?|,|!$/g);
 
       const patt2 = new RegExp(/»|’$/g);
-      const patt3 = new RegExp(/^«|‘/);
+      const patt3 = new RegExp(/^«|‘|—/);
       for (i = 0; i < x.length; i++) {
         let word = x[i]
           .toLowerCase()

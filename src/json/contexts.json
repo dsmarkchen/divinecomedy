@@ -7,8 +7,8 @@
         "l": "1",
         "t": [
           "In middle of the path of our life",
-          "I came to my senses of so dark a forest",
-          "Surely the direct way was lost"
+          "I came to my senses by a gloomy forest",
+          "for the direct way was lost"
         ]
       },
       {
@@ -196,9 +196,48 @@
       {
         "l": 7,
         "t": [
-          "myself was in dream a female stemmering",
-          "squinter eyes, twisted foot",
-          "with cripple hand and color dimmer"
+          "came to me in dream a female stemmering",
+          "of her eyes squinter,  feet twisted",
+          "with cripple hands and color dimmer"
+        ]
+      },
+      {
+        "l": 10,
+        "t": [
+          "I gazed;as sun comforting",
+          "cold limbs of night aggravates",
+          "so the gaze of mine supplied the face"
+        ]
+      },
+      {
+        "l": 13,
+        "t": [
+          "tongue, straightened",
+          "the lost face",
+          "love wants, so colored"
+        ]
+      }
+
+    ]
+  },
+  {
+    "book": "purgatorio",
+    "canto": "27",
+    "context": [      
+      {
+        "l": 19,
+        "t": [
+          "",
+          "Virgil said to me: my son",
+          "here can have torment, but no death"
+        ]
+      },
+      {
+        "l": 22,
+        "t": [
+          "remember, remember",
+          "",
+          ""
         ]
       }
     ]

@@ -138,8 +138,21 @@
     "rank": 26
   },
   {
+    "key": "turbato",
+    "value": "disturbed"    
+  },
+  {
+    "key": "te",
+    "value": "you"    
+  },
+
+  {
     "key": "tuo",
     "value": "your"
+  },
+  {
+    "key": "tra",
+    "value": "between"    
   },
   {
     "key": "l’animo",
@@ -167,7 +180,7 @@
   },
   {
     "key": "per",
-    "value": "for"
+    "value": "for, through"
   },
   {
     "key": "me",
@@ -244,7 +257,7 @@
 
   {
     "key": "ché",
-    "value": "surely"
+    "value": "perché: because;surely"
   },
   {
     "key": "colle",
@@ -335,6 +348,18 @@
   {
     "key": "piacer",
     "value": "pleasure"
+  },
+  {
+    "key": "una",
+    "value": "uno:one"
+  },
+  {
+    "key": "masso",
+    "value": "massa:rock"
+  },
+  {
+    "key": "mossa",
+    "value": "n:move"
   },
   {
     "key": "spande",
@@ -440,7 +465,7 @@
   },
   {
     "key": "selva",
-    "value": "forest"
+    "value": "forest,woods"
   },
   {
     "key": "irrita",
@@ -558,7 +583,11 @@
   },
   {
     "key": "quanto",
-    "value": "adv: how (adv), noun: long, adj: how much "
+    "value": "how,how much,how many"
+  },
+  {
+    "key": "l’altre",
+    "value": "other,another;previous"
   },
   {
     "key": "essa",
@@ -583,6 +612,34 @@
   {
     "key": "oscura",
     "value": "dark, gloomy"
+  },
+  {
+    "key": "membra",
+    "value": "limbs"
+  },
+  {
+    "key": "sguardo",
+    "value": "gaze"
+  },
+  {
+    "key": "smarrito",
+    "value": "lost"
+  },
+  {
+    "key": "colorava",
+    "value": "colored"
+  },
+  {
+    "key": "vuol",
+    "value": "wants"
+  },
+  {
+    "key": "lingua",
+    "value": "tongue"
+  },
+  {
+    "key": "drizzava",
+    "value": "straightened"
   },
   {
     "key": "morte",
@@ -658,7 +715,7 @@
   },
   {
     "key": "poco",
-    "value": "adj,n:little, adv:a bit"
+    "value": "little, a bit"
   },
   {
     "key": "passo",
@@ -667,6 +724,10 @@
   {
     "key": "posso",
     "value": "v:I can"
+  },
+  {
+    "key": "dïurno",
+    "value": "daytime"
   },
 
   {
@@ -1512,5 +1573,37 @@
   {
     "key": "lega",
     "value": "alloy, bind"
+  },
+  {
+    "key": "figliuol",
+    "value": "son"
+  },
+  {
+    "key": "buone",
+    "value": "good,fine"
+  },
+  {
+    "key": "vibra",
+    "value": "vibrates"
+  },
+  {
+    "key": "muro",
+    "value": "wall"
+  },
+  {
+    "key": "viva",
+    "value": "vivid,briliant"
+  },
+  {
+    "key": "presso",
+    "value": "at,in,by"
+  },
+  {
+    "key": "virgilio",
+    "value": "Virgil"
+  },
+  {
+    "key": "bëatrice",
+    "value": "Beatrice"
   }
 ]
